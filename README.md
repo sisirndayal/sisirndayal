@@ -2,7 +2,7 @@
 - 👀 I’m interested in building inovative and user friendly web applications
 - 🌱 I’m currently learning react and node js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at sisirndayal@gmail.com
+- 📫 How to reach me at
 
 <!---
 sisirndayal/sisirndayal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
